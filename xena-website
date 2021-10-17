@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link href="css/styles.css" rel="stylesheet" tupe="text/css">
+  <title>Xena's website - a place for all things Xena!</title>
+</head>
+<body>
+  <h1>Xena's website!</h1>
+  <h2>Here are a few things that Xena loves:</h2>
+  
+  <h3>
+    <ul>
+      <li>Playing catch</li>
+      <li>Eating</li>
+      <li>Eating some more</li>
+    </ul>
+  </h3>
+  
+</body>
+</html>
